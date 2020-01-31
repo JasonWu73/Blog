@@ -11,6 +11,7 @@
 - [CentOS 7 服务器系统安装（最小安装）完整截图](https://github.com/JasonWu73/Blog/issues/4)
 - [CentOS 7 IP 配置](https://github.com/JasonWu73/Blog/issues/5)
 - [CentOS 7 添加和删除 sudo 用户](https://github.com/JasonWu73/Blog/issues/7)
+- [CentOS 7 时间同步](https://github.com/JasonWu73/Blog/issues/8)
 
 # Microsoft Windows
 
