@@ -23,6 +23,10 @@
 - [MySQL 服务安装（Docker 官方镜像）](https://github.com/JasonWu73/Blog/issues/11)
 - [MySQL 客户端命令行工具（Windows 篇）](https://github.com/JasonWu73/Blog/issues/12)
 
+# Sublime Text 3
+
+- [Sublime Text 3 Tips](https://github.com/JasonWu73/Blog/issues/13)
+
 # Microsoft Windows
 
 - [Windows IP 变更脚本](https://github.com/JasonWu73/Blog/issues/6)
