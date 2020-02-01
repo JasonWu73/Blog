@@ -21,6 +21,7 @@
 # MySQL
 
 - [MySQL 服务安装（Docker 官方镜像）](https://github.com/JasonWu73/Blog/issues/11)
+- [MySQL 客户端命令行工具（Windows 篇）](https://github.com/JasonWu73/Blog/issues/12)
 
 # Microsoft Windows
 
