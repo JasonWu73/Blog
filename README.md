@@ -16,6 +16,7 @@
 # Docker
 
 - [Docker CE 安装（CentOS 7）](https://github.com/JasonWu73/Blog/issues/9)
+- [Docker 以非 root 用户进行管理](https://github.com/JasonWu73/Blog/issues/10)
 
 # Microsoft Windows
 
