@@ -1,3 +1,7 @@
+# 设计模式
+
+- [依赖反转原则（Dependency inversion principle，DIP）](https://github.com/JasonWu73/Blog/issues/28)
+
 # Git
 
 - [Git 命令行操作速学](https://github.com/JasonWu73/Blog/issues/2)
