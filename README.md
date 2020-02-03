@@ -1,7 +1,7 @@
 # 设计模式
 
 - [依赖反转原则（Dependency inversion principle，DIP）](https://github.com/JasonWu73/Blog/issues/28)
-- [空对象模式](https://github.com/JasonWu73/Blog/issues/30)
+- [空对象模式（Null object pattern）](https://github.com/JasonWu73/Blog/issues/30)
 
 # Git
 
