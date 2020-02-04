@@ -1,3 +1,5 @@
+> 搜索本页所列标题定位具体文章，或打开 `Issues` 标签，使用 GitHub 提供的搜索功能（`Filters`）查询文章。
+
 # 设计模式
 
 - [依赖反转原则（Dependency inversion principle，DIP）](https://github.com/JasonWu73/Blog/issues/28)
