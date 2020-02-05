@@ -7,6 +7,7 @@
 - [生成器模式（Builder pattern）](https://github.com/JasonWu73/Blog/issues/31)
 - [单例模式（Singleton pattern）](https://github.com/JasonWu73/Blog/issues/32)
 - [外观模式（Facade pattern）](https://github.com/JasonWu73/Blog/issues/33)
+- [命令模式（Command pattern）](https://github.com/JasonWu73/Blog/issues/34)
 
 # Git
 
