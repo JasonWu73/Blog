@@ -6,6 +6,7 @@
 - [空对象模式（Null object pattern）](https://github.com/JasonWu73/Blog/issues/30)
 - [生成器模式（Builder pattern）](https://github.com/JasonWu73/Blog/issues/31)
 - [单例模式（Singleton pattern）](https://github.com/JasonWu73/Blog/issues/32)
+- [外观模式（Facade pattern）](https://github.com/JasonWu73/Blog/issues/33)
 
 # Git
 
