@@ -5,6 +5,7 @@
 - [依赖反转原则（Dependency inversion principle，DIP）](https://github.com/JasonWu73/Blog/issues/28)
 - [空对象模式（Null object pattern）](https://github.com/JasonWu73/Blog/issues/30)
 - [生成器模式（Builder pattern）](https://github.com/JasonWu73/Blog/issues/31)
+- [单例模式（Singleton pattern）](https://github.com/JasonWu73/Blog/issues/32)
 
 # Git
 
