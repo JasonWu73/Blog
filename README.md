@@ -11,6 +11,7 @@
 ## 面向对象设计（SOLID）
 
 - [单一功能原则（Single responsibility principle）](https://github.com/JasonWu73/Blog/issues/35)
+- [开闭原则（Open–closed principle）](https://github.com/JasonWu73/Blog/issues/36)
 - [依赖反转原则（Dependency inversion principle，DIP）](https://github.com/JasonWu73/Blog/issues/28)
 
 # Git
