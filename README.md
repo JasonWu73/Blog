@@ -12,6 +12,7 @@
 
 - [单一功能原则（Single responsibility principle）](https://github.com/JasonWu73/Blog/issues/35)
 - [开闭原则（Open–closed principle）](https://github.com/JasonWu73/Blog/issues/36)
+- [里氏替换原则（Liskov substitution principle）](https://github.com/JasonWu73/Blog/issues/37)
 - [依赖反转原则（Dependency inversion principle，DIP）](https://github.com/JasonWu73/Blog/issues/28)
 
 # Git
