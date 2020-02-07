@@ -23,6 +23,7 @@
 # Python
 
 - [Python 中的接口实现](https://github.com/JasonWu73/Blog/issues/29)
+- [Python 同时遍历列表项的索引和值](https://github.com/JasonWu73/Blog/issues/39)
 
 # HMTL & CSS
 
