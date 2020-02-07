@@ -29,6 +29,11 @@
 
 - [Emmet 速学](https://github.com/JasonWu73/Blog/issues/1)
 
+# Microsoft Windows
+
+- [Windows CMD 常用命令](https://github.com/JasonWu73/Blog/issues/41)
+- [Windows IP 变更脚本](https://github.com/JasonWu73/Blog/issues/6)
+
 # CentOS
 
 - [CentOS 7 服务器系统安装（最小安装）完整截图](https://github.com/JasonWu73/Blog/issues/4)
@@ -64,10 +69,6 @@
 - [Sublime Text 3: 4. Java.sublime-build](https://github.com/JasonWu73/Blog/issues/23)
 - [Sublime Text 3: 5. C++.sublime-build](https://github.com/JasonWu73/Blog/issues/24)
 - [Sublime Text 3: 6. C.sublime-build](https://github.com/JasonWu73/Blog/issues/25)
-
-# Microsoft Windows
-
-- [Windows IP 变更脚本](https://github.com/JasonWu73/Blog/issues/6)
 
 # VMware Workstation
 
