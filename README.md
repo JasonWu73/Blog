@@ -25,6 +25,12 @@
 - [Python 中的接口实现](https://github.com/JasonWu73/Blog/issues/29)
 - [Python 同时遍历列表项的索引和值](https://github.com/JasonWu73/Blog/issues/39)
 
+# JavaScript
+
+## Node.js
+
+- [Node.js 外部模块导入机制研究](https://github.com/JasonWu73/Blog/issues/42)
+
 # HMTL & CSS
 
 - [Emmet 速学](https://github.com/JasonWu73/Blog/issues/1)
