@@ -30,6 +30,7 @@
 ## Node.js
 
 - [Node.js 外部模块导入机制研究](https://github.com/JasonWu73/Blog/issues/42)
+- [Node.js 编译 JavaScript 研究](https://github.com/JasonWu73/Blog/issues/43)
 
 # HMTL & CSS
 
