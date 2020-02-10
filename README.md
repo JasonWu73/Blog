@@ -66,6 +66,10 @@
 - [MySQL 如何更改用户身份验证插件](https://github.com/JasonWu73/Blog/issues/26)
 - [MySQL 命令行操作](https://github.com/JasonWu73/Blog/issues/27)
 
+# JetBrains
+
+- [Intellij IDEA 配置](https://github.com/JasonWu73/Blog/issues/47)
+
 # Sublime Text 3
 
 - [Sublime Text 3 Tips](https://github.com/JasonWu73/Blog/issues/13)
