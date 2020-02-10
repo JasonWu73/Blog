@@ -22,6 +22,7 @@
 
 # Java
 
+- [Java 安装](https://github.com/JasonWu73/Blog/issues/50)
 - [Java 编码研究](https://github.com/JasonWu73/Blog/issues/46)
 
 ## Maven
