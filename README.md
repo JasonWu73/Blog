@@ -47,6 +47,10 @@
 - [Node.js 编译 CSS 研究](https://github.com/JasonWu73/Blog/issues/44)
 - [Node.js 编译图片研究](https://github.com/JasonWu73/Blog/issues/45)
 
+## Vue.js
+
+- [Vue.js 数据双向绑定 v-model 研究](https://github.com/JasonWu73/Blog/issues/52)
+
 # HMTL & CSS
 
 - [Emmet 速学](https://github.com/JasonWu73/Blog/issues/1)
