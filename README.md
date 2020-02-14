@@ -50,6 +50,7 @@
 ## Vue.js
 
 - [Vue.js 数据双向绑定 v-model 研究](https://github.com/JasonWu73/Blog/issues/52)
+- [Vue.js 计算属性研究](https://github.com/JasonWu73/Blog/issues/54)
 
 # HMTL & CSS
 
