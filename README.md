@@ -80,6 +80,10 @@
 - [MySQL 如何更改用户身份验证插件](https://github.com/JasonWu73/Blog/issues/26)
 - [MySQL 命令行操作](https://github.com/JasonWu73/Blog/issues/27)
 
+# Visual Studio Code
+
+- [Visual Studio Code 常用快捷键](https://github.com/JasonWu73/Blog/issues/55)
+
 # JetBrains
 
 - [Intellij IDEA 配置](https://github.com/JasonWu73/Blog/issues/47)
