@@ -59,6 +59,7 @@
 
 # Microsoft Windows
 
+- [Windows CMD 解决无法将自定义字体设置为终端默认字体的问题](https://github.com/JasonWu73/Blog/issues/57)
 - [Windows CMD 常用命令](https://github.com/JasonWu73/Blog/issues/41)
 - [Windows IP 变更脚本](https://github.com/JasonWu73/Blog/issues/6)
 
