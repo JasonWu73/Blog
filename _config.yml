@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+remote_theme: "dracula/gh-pages"
 
 title: 吴仙杰的博客
 description: More Or Less
