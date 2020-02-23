@@ -88,6 +88,7 @@
 
 # Visual Studio Code
 
+- [Visual Studio Code（持续更新）](https://github.com/JasonWu73/Blog/issues/59)
 - [Visual Studio Code 常用快捷键](https://github.com/JasonWu73/Blog/issues/55)
 
 # JetBrains
