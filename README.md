@@ -41,7 +41,7 @@
 
 # JavaScript
 
-- [JavaScript async await 示例](https://github.com/JasonWu73/Blog/issues/61)
+- [JavaScript async await](https://github.com/JasonWu73/Blog/issues/61)
 
 ## Mock.js & Axios.js
 
