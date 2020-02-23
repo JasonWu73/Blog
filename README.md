@@ -43,9 +43,10 @@
 
 - [JavaScript async await](https://github.com/JasonWu73/Blog/issues/61)
 
-## Mock.js & Axios.js
+## Mock.js & Axios
 
-- [Mock.js & Axios.js 前端 HTTP API 开发套路](https://github.com/JasonWu73/Blog/issues/58)
+- [Mock.js & Axios 前端 HTTP API 开发套路](https://github.com/JasonWu73/Blog/issues/58)
+- [Axios 拦截器动态添加 baseURL 和 token](https://github.com/JasonWu73/Blog/issues/62)
 
 ## Node.js
 
