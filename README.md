@@ -33,6 +33,10 @@
 
 - [Tomcat 安装与使用](https://github.com/JasonWu73/Blog/issues/51)
 
+## Spring Boot
+
+- [Spring Boot 项目搭建（VS Code 篇）](https://github.com/JasonWu73/Blog/issues/63)
+
 # Python
 
 - [Python PyPi 镜像源配置](https://github.com/JasonWu73/Blog/issues/56)
