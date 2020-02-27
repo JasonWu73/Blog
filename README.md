@@ -36,6 +36,7 @@
 ## Spring Boot
 
 - [Spring Boot 项目搭建（VS Code 篇）](https://github.com/JasonWu73/Blog/issues/63)
+- [Spring Boot 多模块项目搭建（VS Code 篇）](https://github.com/JasonWu73/Blog/issues/65)
 - [Spring Boot 开启异步方法注解](https://github.com/JasonWu73/Blog/issues/64)
 
 # Python
