@@ -40,6 +40,7 @@
 - [Spring Boot 开启异步方法注解](https://github.com/JasonWu73/Blog/issues/64)
 - [Spring Boot 选择注入相同类型 @Bean 的几种方式](https://github.com/JasonWu73/Blog/issues/67)
 - [Spring Boot POST 请求的几种类型](https://github.com/JasonWu73/Blog/issues/68)
+- [Spring Boot 参数验证](https://github.com/JasonWu73/Blog/issues/69)
 
 # Python
 
