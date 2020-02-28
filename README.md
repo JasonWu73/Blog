@@ -76,6 +76,7 @@
 # Microsoft Windows
 
 - [Windows 10 LTSC 或 LTSB 安装应用商店](https://github.com/JasonWu73/Blog/issues/70)
+- [Windows 10 安装 Linux 子系统（WSL）并配置 VS Code](https://github.com/JasonWu73/Blog/issues/71)
 - [Windows CMD 解决无法将自定义字体设置为终端默认字体的问题](https://github.com/JasonWu73/Blog/issues/57)
 - [Windows 修改默认字体](https://github.com/JasonWu73/Blog/issues/60)
 - [Windows CMD 常用命令](https://github.com/JasonWu73/Blog/issues/41)
