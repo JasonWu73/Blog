@@ -82,7 +82,7 @@
 - [Windows CMD 常用命令](https://github.com/JasonWu73/Blog/issues/41)
 - [Windows IP 变更脚本](https://github.com/JasonWu73/Blog/issues/6)
 - [Windows 目录迁移（以 Chrome 为例）](https://github.com/JasonWu73/Blog/issues/72)
-- [无法从微软商店安装应用，提示 0x80070005](https://github.com/JasonWu73/Blog/issues/73)
+- [Windows 无法从微软商店安装应用，提示 0x80070005](https://github.com/JasonWu73/Blog/issues/73)
 
 # CentOS
 
