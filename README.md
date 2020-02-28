@@ -81,6 +81,7 @@
 - [Windows 修改默认字体](https://github.com/JasonWu73/Blog/issues/60)
 - [Windows CMD 常用命令](https://github.com/JasonWu73/Blog/issues/41)
 - [Windows IP 变更脚本](https://github.com/JasonWu73/Blog/issues/6)
+- [Windows 目录迁移（以 Chrome 为例）](https://github.com/JasonWu73/Blog/issues/72)
 
 # CentOS
 
