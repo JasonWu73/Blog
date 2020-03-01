@@ -70,9 +70,10 @@
 - [Vue.js 数据双向绑定 v-model 研究](https://github.com/JasonWu73/Blog/issues/52)
 - [Vue.js 计算属性研究](https://github.com/JasonWu73/Blog/issues/54)
 
-# HMTL & CSS
+# HTML & CSS
 
 - [Emmet 速学](https://github.com/JasonWu73/Blog/issues/1)
+- [Sass 速学](https://github.com/JasonWu73/Blog/issues/77)
 
 # Microsoft Windows
 
