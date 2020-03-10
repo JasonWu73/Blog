@@ -28,6 +28,7 @@
 ## Apache Maven
 
 - [Maven 安装与配置](https://github.com/JasonWu73/Blog/issues/49)
+- [Maven 运行 test 命令控制台输出乱码的问题](https://github.com/JasonWu73/Blog/issues/82)
 
 ## Apache Tomcat
 
