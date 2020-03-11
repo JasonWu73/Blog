@@ -18,7 +18,7 @@
 
 # Flutter
 
-- [Windows 10 搭建 Flutter 开发环境](https://github.com/JasonWu73/Blog/issues/83)
+- [Flutter 开发环境搭建（Windows 10）](https://github.com/JasonWu73/Blog/issues/83)
 
 # Git
 
