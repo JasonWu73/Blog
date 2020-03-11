@@ -19,6 +19,7 @@
 # Flutter
 
 - [Flutter 开发环境搭建（Windows 10）](https://github.com/JasonWu73/Blog/issues/83)
+- [Flutter 中 Gradle Maven 仓库配置](https://github.com/JasonWu73/Blog/issues/84)
 
 # Git
 
