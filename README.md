@@ -107,6 +107,7 @@
 - [CentOS 7 IP 配置](https://github.com/JasonWu73/Blog/issues/5)
 - [CentOS 7 添加和删除 sudo 用户](https://github.com/JasonWu73/Blog/issues/7)
 - [CentOS 7 时间同步](https://github.com/JasonWu73/Blog/issues/8)
+- [CentOS 7 系统设置中文 UTF-8 编码](https://github.com/JasonWu73/Blog/issues/86)
 
 # Docker
 
