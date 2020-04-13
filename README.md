@@ -123,7 +123,7 @@
 
 # 数字证书
 
--[编程方式生成证书请求 CSR（Java）](https://github.com/JasonWu73/Blog/issues/87)
+- [编程方式生成证书请求 CSR（Java）](https://github.com/JasonWu73/Blog/issues/87)
 
 # Visual Studio Code
 
