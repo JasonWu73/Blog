@@ -121,6 +121,10 @@
 - [MySQL 如何更改用户身份验证插件](https://github.com/JasonWu73/Blog/issues/26)
 - [MySQL 命令行操作](https://github.com/JasonWu73/Blog/issues/27)
 
+# 数字证书
+
+-[编程方式生成证书请求 CSR（Java）](https://github.com/JasonWu73/Blog/issues/87)
+
 # Visual Studio Code
 
 - [Visual Studio Code（持续更新）](https://github.com/JasonWu73/Blog/issues/59)
