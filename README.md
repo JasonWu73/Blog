@@ -123,8 +123,8 @@
 
 # 数字证书
 
-- [编程方式生成 RSA/SM2（ECC）证书请求 CSR（Java 版）](https://github.com/JasonWu73/Blog/issues/87)
-- [查看和解析数字证书](https://github.com/JasonWu73/Blog/issues/88)
+- [数字证书 - 通过 Java 代码生成 RSA/SM2（ECC）证书请求 CSR](https://github.com/JasonWu73/Blog/issues/87)
+- [数字证书 - 传输与解析](https://github.com/JasonWu73/Blog/issues/88)
 
 # Visual Studio Code
 
