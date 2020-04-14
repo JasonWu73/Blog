@@ -43,6 +43,7 @@
 
 - [Spring Boot 项目搭建（VS Code 篇）](https://github.com/JasonWu73/Blog/issues/63)
 - [Spring Boot 多模块项目搭建（VS Code 篇）](https://github.com/JasonWu73/Blog/issues/65)
+- [Spring Boot 打包为抽离了配置的 WAR](https://github.com/JasonWu73/Blog/issues/89)
 - [Spring Boot 开启异步方法注解](https://github.com/JasonWu73/Blog/issues/64)
 - [Spring Boot 选择注入相同类型 @Bean 的几种方式](https://github.com/JasonWu73/Blog/issues/67)
 - [Spring Boot POST 请求的几种类型](https://github.com/JasonWu73/Blog/issues/68)
