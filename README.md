@@ -124,6 +124,7 @@
 # 数字证书
 
 - [编程方式生成 RSA/SM2（ECC）证书请求 CSR（Java 版）](https://github.com/JasonWu73/Blog/issues/87)
+- [查看和解析数字证书](https://github.com/JasonWu73/Blog/issues/88)
 
 # Visual Studio Code
 
