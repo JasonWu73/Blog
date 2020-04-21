@@ -31,6 +31,7 @@
 - [Java 编码研究](https://github.com/JasonWu73/Blog/issues/46)
 - [Java 8 Stream 速学](https://github.com/JasonWu73/Blog/issues/91)
 - [Java 8 Lambda 表达式和函数式接口最佳实践](https://github.com/JasonWu73/Blog/issues/92)
+- [Java 8 新特性](https://github.com/JasonWu73/Blog/issues/93)
 
 ## Apache Maven
 
