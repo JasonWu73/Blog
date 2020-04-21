@@ -29,6 +29,7 @@
 
 - [Java 安装](https://github.com/JasonWu73/Blog/issues/50)
 - [Java 编码研究](https://github.com/JasonWu73/Blog/issues/46)
+- [Java 8 Stream 速学](https://github.com/JasonWu73/Blog/issues/91)
 
 ## Apache Maven
 
