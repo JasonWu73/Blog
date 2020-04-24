@@ -33,6 +33,7 @@
 - [Java 8 Lambda 表达式和函数式接口最佳实践](https://github.com/JasonWu73/Blog/issues/92)
 - [Java 8 新特性](https://github.com/JasonWu73/Blog/issues/93)
 - [Java 8 Collectors API](https://github.com/JasonWu73/Blog/issues/94)
+- [Java 8 Date/Time API](https://github.com/JasonWu73/Blog/issues/95)
 
 ## Apache Maven
 
