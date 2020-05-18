@@ -41,6 +41,7 @@
 - [Maven 安装与配置](https://github.com/JasonWu73/Blog/issues/49)
 - [Maven 运行 test 命令控制台输出乱码的问题](https://github.com/JasonWu73/Blog/issues/82)
 - [Maven 打包 zip、tgz](https://github.com/JasonWu73/Blog/issues/90)
+- [Maven 聚合（联合编译）、继承](https://github.com/JasonWu73/Blog/issues/99)
 
 ## Apache Tomcat
 
