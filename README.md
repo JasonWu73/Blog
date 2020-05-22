@@ -114,6 +114,7 @@
 - [Ubuntu 18.04.2 LTS 安装 Node.js](https://github.com/JasonWu73/Blog/issues/74)
 - [Ubuntu 18.04.2 LTS 编译安装最新版本的 Python 3](https://github.com/JasonWu73/Blog/issues/75)
 - [Ubuntu 18.04.2 LTS Apache HTTP Server](https://github.com/JasonWu73/Blog/issues/96)
+- [https://github.com/JasonWu73/Blog/issues/100](https://github.com/JasonWu73/Blog/issues/100)
 
 # CentOS
 
