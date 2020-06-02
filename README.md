@@ -42,6 +42,7 @@
 ## JOOQ
 
 - [JOOQ 基础使用](https://github.com/JasonWu73/Blog/issues/103)
+- [JOOQ 优化分页查询](https://github.com/JasonWu73/Blog/issues/104)
 
 ## Apache Maven
 
