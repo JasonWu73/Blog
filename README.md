@@ -33,6 +33,7 @@
 
 - [Spring IoC 容器的简单理解（基于 XML）](https://github.com/JasonWu73/Blog/issues/107)
 - [Spring 基于 Java 代码的 IoC 容器配置](https://github.com/JasonWu73/Blog/issues/108)
+- [Spring 自动检测和注册 Bean](https://github.com/JasonWu73/Blog/issues/109)
 
 ## Spring Boot
 
