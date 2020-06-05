@@ -31,7 +31,7 @@
 
 ## Spring Framework
 
-- [Spring IoC 容器的简单理解](https://github.com/JasonWu73/Blog/issues/107)
+- [Spring IoC 容器的简单理解（基于 XML）](https://github.com/JasonWu73/Blog/issues/107)
 
 ## Spring Boot
 
