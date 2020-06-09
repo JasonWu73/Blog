@@ -65,6 +65,7 @@
 ## Apache Tomcat
 
 - [Tomcat 安装与使用](https://github.com/JasonWu73/Blog/issues/51)
+- [Tomcat 入门基础配置（部署静态网站）](https://github.com/JasonWu73/Blog/issues/113)
 
 # JavaScript
 
