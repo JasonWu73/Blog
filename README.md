@@ -67,6 +67,7 @@
 - [Tomcat 安装与使用](https://github.com/JasonWu73/Blog/issues/51)
 - [Tomcat 入门基础配置（部署静态网站）](https://github.com/JasonWu73/Blog/issues/113)
 - [Tomcat 入门 WAR 与 Servlet](https://github.com/JasonWu73/Blog/issues/114)
+- [Tomcat 手工编译及部署动态网站（Servlet & Spring Core）](https://github.com/JasonWu73/Blog/issues/115)
 
 # JavaScript
 
