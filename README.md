@@ -43,6 +43,7 @@
 ### Spring MVC
 
 - [Spring MVC 入门项目](https://github.com/JasonWu73/Blog/issues/116)
+- [Spring MVC 获取请求内容（绑定日期对象）、限制请求头](https://github.com/JasonWu73/Blog/issues/117)
 
 ## Spring Boot
 
