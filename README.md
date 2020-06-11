@@ -45,6 +45,7 @@
 - [Spring MVC 入门项目](https://github.com/JasonWu73/Blog/issues/116)
 - [Spring MVC 获取请求内容（绑定日期对象）、限制请求头](https://github.com/JasonWu73/Blog/issues/117)
 - [Spring MVC Rest API、跨域请求](https://github.com/JasonWu73/Blog/issues/118)
+- [Spring MVC 开启异步请求（Tomcat 最大线程数设置）](https://github.com/JasonWu73/Blog/issues/119)
 
 ## Spring Boot
 
