@@ -59,6 +59,10 @@
 - [Spring Boot POST 请求的几种类型](https://github.com/JasonWu73/Blog/issues/68)
 - [Spring Boot MVC 参数校验](https://github.com/JasonWu73/Blog/issues/69)
 
+## MyBatis
+
+- [MyBatis-Spring 整合 Spring Core](https://github.com/JasonWu73/Blog/issues/122)
+
 ## JOOQ
 
 - [JOOQ 基础使用](https://github.com/JasonWu73/Blog/issues/103)
