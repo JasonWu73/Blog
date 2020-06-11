@@ -47,6 +47,7 @@
 - [Spring MVC Rest API、跨域请求](https://github.com/JasonWu73/Blog/issues/118)
 - [Spring MVC 开启异步请求（Tomcat 最大线程数设置）](https://github.com/JasonWu73/Blog/issues/119)
 - [Spring MVC 处理异步请求超时及其异常](https://github.com/JasonWu73/Blog/issues/120)
+- [Spring MVC 异步请求结合 Redis 发布订阅功能](https://github.com/JasonWu73/Blog/issues/121)
 
 ## Spring Boot
 
