@@ -63,6 +63,7 @@
 
 - [MyBatis-Spring 整合 Spring Core](https://github.com/JasonWu73/Blog/issues/122)
 - [MyBatis 纯注解形式编写 SQL（动态 SQL）](https://github.com/JasonWu73/Blog/issues/123)
+- [MyBatis SQL 生成器（动态 SQL）](https://github.com/JasonWu73/Blog/issues/124)
 
 ## JOOQ
 
