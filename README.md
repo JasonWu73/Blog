@@ -220,3 +220,9 @@
 - [里氏替换原则（Liskov substitution principle）](https://github.com/JasonWu73/Blog/issues/37)
 - [接口隔离原则（Interface-segregation principle，ISP）](https://github.com/JasonWu73/Blog/issues/38)
 - [依赖反转原则（Dependency inversion principle，DIP）](https://github.com/JasonWu73/Blog/issues/28)
+
+# 理论
+
+- [微服务中服务之间的调用方式](https://github.com/JasonWu73/Blog/issues/130)
+- [产生死锁的四个必要条件](https://github.com/JasonWu73/Blog/issues/131)
+
