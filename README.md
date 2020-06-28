@@ -120,6 +120,7 @@
 - [Vue.js 数据双向绑定 v-model 研究](https://github.com/JasonWu73/Blog/issues/52)
 - [Vue.js 计算属性研究](https://github.com/JasonWu73/Blog/issues/54)
 - [Vue.js 组件入门](https://github.com/JasonWu73/Blog/issues/132)
+- [Vue.js 单文件组件入门（非 Node.js 环境）](https://github.com/JasonWu73/Blog/issues/133)
 
 # HTML & CSS
 
