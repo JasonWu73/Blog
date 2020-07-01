@@ -121,7 +121,8 @@
 - [Vue.js 计算属性研究](https://github.com/JasonWu73/Blog/issues/54)
 - [Vue.js 组件入门](https://github.com/JasonWu73/Blog/issues/132)
 - [Vue.js 单文件组件入门（非 Node.js 环境）](https://github.com/JasonWu73/Blog/issues/133)
-- [Vue.js 父子组件（一）：属性传递、子组件触发父组件更新](https://github.com/JasonWu73/Blog/issues/135)
+- [Vue.js 父子组件交互：props、$emit](https://github.com/JasonWu73/Blog/issues/135)
+- [Vue.js 父子组件交互：props、自定义 v-model](https://github.com/JasonWu73/Blog/issues/136)
 
 # HTML & CSS
 
