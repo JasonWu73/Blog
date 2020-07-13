@@ -124,6 +124,7 @@
 - [Vue.js 父子组件交互：props、$emit](https://github.com/JasonWu73/Blog/issues/135)
 - [Vue.js 父子组件交互：props、自定义 v-model](https://github.com/JasonWu73/Blog/issues/136)
 - [Vue.js 父子组件交互：.sync 修饰符](https://github.com/JasonWu73/Blog/issues/138)
+- [Vue.js 父子组件交互：插槽](https://github.com/JasonWu73/Blog/issues/139)
 
 # HTML & CSS
 
