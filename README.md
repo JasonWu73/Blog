@@ -95,6 +95,7 @@
 
 - [JavaScript async await](https://github.com/JasonWu73/Blog/issues/61)
 - [JavaScript 多行字符串变量](https://github.com/JasonWu73/Blog/issues/126)
+- [AJAX原理之POST](https://github.com/JasonWu73/Blog/issues/140)
 
 ## Webpack
 
