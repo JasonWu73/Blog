@@ -25,6 +25,7 @@
 - [Java 安装](https://github.com/JasonWu73/Blog/issues/50)
 - [Java 手工试玩路线](https://github.com/JasonWu73/Blog/issues/98)
 - [Java 编码研究](https://github.com/JasonWu73/Blog/issues/46)
+- [Java写入临时文件](https://github.com/JasonWu73/Blog/issues/142)
 - [Java 8 Stream 速学](https://github.com/JasonWu73/Blog/issues/91)
 - [Java 8 Lambda 表达式和函数式接口最佳实践](https://github.com/JasonWu73/Blog/issues/92)
 - [Java 8 新特性](https://github.com/JasonWu73/Blog/issues/93)
