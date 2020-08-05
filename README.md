@@ -127,6 +127,7 @@
 - [Vue.js 父子组件交互：props、自定义 v-model](https://github.com/JasonWu73/Blog/issues/136)
 - [Vue.js 父子组件交互：.sync 修饰符](https://github.com/JasonWu73/Blog/issues/138)
 - [Vue.js 父子组件交互：插槽](https://github.com/JasonWu73/Blog/issues/139)
+- [Vue中父组件如何访问子组件](https://github.com/JasonWu73/Blog/issues/144)
 - [Vue CLI入口文件解析](https://github.com/JasonWu73/Blog/issues/143)
 
 # HTML & CSS
