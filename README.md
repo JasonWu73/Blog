@@ -11,6 +11,7 @@
 
 # MySQL
 
+- [MySQL 中 int 与 tinyint 长度问题](https://github.com/JasonWu73/Blog/issues/148)
 - [MySQL 服务安装（Docker 官方镜像）](https://github.com/JasonWu73/Blog/issues/11)
 - [MySQL 客户端命令行工具（Windows 篇）](https://github.com/JasonWu73/Blog/issues/12)
 - [MySQL 如何更改用户身份验证插件](https://github.com/JasonWu73/Blog/issues/26)
