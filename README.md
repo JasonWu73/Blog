@@ -17,6 +17,7 @@
 - [MySQL 命令行操作](https://github.com/JasonWu73/Blog/issues/27)
 - [MySQL 中 int 与 tinyint 长度问题](https://github.com/JasonWu73/Blog/issues/148)
 - [MySQL 查询行号](https://github.com/JasonWu73/Blog/issues/149)
+- [MySQL 分组后在分组内排序，每个分组中取前 N 条](https://github.com/JasonWu73/Blog/issues/150)
 
 # Redis
 
