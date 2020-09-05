@@ -19,6 +19,7 @@
 - [MySQL 查询行号](https://github.com/JasonWu73/Blog/issues/149)
 - [MySQL 分组后在分组内排序，每个分组中取前 N 条](https://github.com/JasonWu73/Blog/issues/150)
 - [纯 SQL 写简单业务逻辑](https://github.com/JasonWu73/Blog/issues/151)
+- [MySQL 自连接查询](https://github.com/JasonWu73/Blog/issues/152)
 
 # Redis
 
