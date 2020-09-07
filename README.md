@@ -23,6 +23,7 @@
 - [MySQL 删除重复数据](https://github.com/JasonWu73/Blog/issues/153)
 - [MySQL 更新或拒绝插入重复数据](https://github.com/JasonWu73/Blog/issues/154)
 - [更新数据技巧之 update 表子查询、多条件判断](https://github.com/JasonWu73/Blog/issues/155)
+- [利用 ORDER BY 实现“排名作弊”](https://github.com/JasonWu73/Blog/issues/156)
 
 # Redis
 
