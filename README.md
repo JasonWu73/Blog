@@ -25,6 +25,7 @@
 - [更新数据技巧之 update 表子查询、多条件判断](https://github.com/JasonWu73/Blog/issues/155)
 - [利用 ORDER BY 实现“排名作弊”](https://github.com/JasonWu73/Blog/issues/156)
 - [获取连续签到 N 天的用户列表](https://github.com/JasonWu73/Blog/issues/157)
+- [获取各类商品的最新销售情况](https://github.com/JasonWu73/Blog/issues/158)
 
 # Redis
 
