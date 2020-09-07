@@ -21,6 +21,7 @@
 - [纯 SQL 写简单业务逻辑](https://github.com/JasonWu73/Blog/issues/151)
 - [MySQL 自连接查询](https://github.com/JasonWu73/Blog/issues/152)
 - [MySQL 删除重复数据](https://github.com/JasonWu73/Blog/issues/153)
+- [MySQL 更新或拒绝插入重复数据](https://github.com/JasonWu73/Blog/issues/154)
 
 # Redis
 
