@@ -26,6 +26,7 @@
 - [利用 ORDER BY 实现“排名作弊”](https://github.com/JasonWu73/Blog/issues/156)
 - [获取连续签到 N 天的用户列表](https://github.com/JasonWu73/Blog/issues/157)
 - [获取各类商品的最新销售情况](https://github.com/JasonWu73/Blog/issues/158)
+- [多表关联 UPDATE](https://github.com/JasonWu73/Blog/issues/159)
 
 # Redis
 
