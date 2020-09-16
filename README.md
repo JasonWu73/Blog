@@ -141,6 +141,7 @@
 - [Vue.js 父子组件交互：.sync 修饰符](https://github.com/JasonWu73/Blog/issues/138)
 - [Vue.js 父子组件交互：插槽](https://github.com/JasonWu73/Blog/issues/139)
 - [Vue中父组件如何访问子组件](https://github.com/JasonWu73/Blog/issues/144)
+- [在 Vue.js 中使用 JSX 写组件](https://github.com/JasonWu73/Blog/issues/160)
 
 ### Vue CLI项目
 
