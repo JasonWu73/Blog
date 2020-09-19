@@ -68,6 +68,7 @@
 
 ## Spring Boot
 
+- [Spring Boot 项目通用 Shell Script](https://github.com/JasonWu73/Blog/issues/161)
 - [Spring Boot 项目搭建（VS Code 篇）](https://github.com/JasonWu73/Blog/issues/63)
 - [Spring Boot 多模块项目搭建（VS Code 篇）](https://github.com/JasonWu73/Blog/issues/65)
 - [Spring Boot 打包为抽离了配置的 WAR](https://github.com/JasonWu73/Blog/issues/89)
