@@ -1,36 +1,11 @@
 > 搜索本页所列标题定位具体文章，或打开 `Issues` 标签，使用 GitHub 提供的搜索功能（`Filters`）查询文章。
 
-# Git
+# Python
 
-- [Git 命令行操作速学](https://github.com/JasonWu73/Blog/issues/2)
-
-# Docker
-
-- [Docker CE 安装（CentOS 7）](https://github.com/JasonWu73/Blog/issues/9)
-- [Docker 以非 root 用户进行管理](https://github.com/JasonWu73/Blog/issues/10)
-
-# MySQL
-
-- [MySQL 服务安装（Docker 官方镜像）](https://github.com/JasonWu73/Blog/issues/11)
-- [MySQL 客户端命令行工具（Windows 篇）](https://github.com/JasonWu73/Blog/issues/12)
-- [MySQL 如何更改用户身份验证插件](https://github.com/JasonWu73/Blog/issues/26)
-- [MySQL 命令行操作](https://github.com/JasonWu73/Blog/issues/27)
-- [MySQL 中 int 与 tinyint 长度问题](https://github.com/JasonWu73/Blog/issues/148)
-- [MySQL 查询行号](https://github.com/JasonWu73/Blog/issues/149)
-- [MySQL 分组后在分组内排序，每个分组中取前 N 条](https://github.com/JasonWu73/Blog/issues/150)
-- [纯 SQL 写简单业务逻辑](https://github.com/JasonWu73/Blog/issues/151)
-- [MySQL 自连接查询](https://github.com/JasonWu73/Blog/issues/152)
-- [MySQL 删除重复数据](https://github.com/JasonWu73/Blog/issues/153)
-- [MySQL 更新或拒绝插入重复数据](https://github.com/JasonWu73/Blog/issues/154)
-- [更新数据技巧之 update 表子查询、多条件判断](https://github.com/JasonWu73/Blog/issues/155)
-- [利用 ORDER BY 实现“排名作弊”](https://github.com/JasonWu73/Blog/issues/156)
-- [获取连续签到 N 天的用户列表](https://github.com/JasonWu73/Blog/issues/157)
-- [获取各类商品的最新销售情况](https://github.com/JasonWu73/Blog/issues/158)
-- [多表关联 UPDATE](https://github.com/JasonWu73/Blog/issues/159)
-
-# Redis
-
-- [Redis 中实现集合中元素过期时间的思路](https://github.com/JasonWu73/Blog/issues/129)
+- [Python爬虫：抓取百度搜索的前两页结果标题](https://github.com/JasonWu73/Blog/issues/163)
+- [Python PyPi 镜像源配置](https://github.com/JasonWu73/Blog/issues/56)
+- [Python 中的接口实现](https://github.com/JasonWu73/Blog/issues/29)
+- [Python 同时遍历列表项的索引和值](https://github.com/JasonWu73/Blog/issues/39)
 
 # Java
 
@@ -156,16 +131,42 @@
 - [Emmet 速学](https://github.com/JasonWu73/Blog/issues/1)
 - [Sass 速学](https://github.com/JasonWu73/Blog/issues/77)
 
-# Python
-
-- [Python PyPi 镜像源配置](https://github.com/JasonWu73/Blog/issues/56)
-- [Python 中的接口实现](https://github.com/JasonWu73/Blog/issues/29)
-- [Python 同时遍历列表项的索引和值](https://github.com/JasonWu73/Blog/issues/39)
-
 # Flutter
 
 - [Flutter 开发环境搭建（Windows 10）](https://github.com/JasonWu73/Blog/issues/83)
 - [Flutter 中 Gradle Maven 仓库配置](https://github.com/JasonWu73/Blog/issues/84)
+
+# Git
+
+- [Git 命令行操作速学](https://github.com/JasonWu73/Blog/issues/2)
+
+# Docker
+
+- [Docker CE 安装（CentOS 7）](https://github.com/JasonWu73/Blog/issues/9)
+- [Docker 以非 root 用户进行管理](https://github.com/JasonWu73/Blog/issues/10)
+
+# MySQL
+
+- [MySQL 服务安装（Docker 官方镜像）](https://github.com/JasonWu73/Blog/issues/11)
+- [MySQL 客户端命令行工具（Windows 篇）](https://github.com/JasonWu73/Blog/issues/12)
+- [MySQL 如何更改用户身份验证插件](https://github.com/JasonWu73/Blog/issues/26)
+- [MySQL 命令行操作](https://github.com/JasonWu73/Blog/issues/27)
+- [MySQL 中 int 与 tinyint 长度问题](https://github.com/JasonWu73/Blog/issues/148)
+- [MySQL 查询行号](https://github.com/JasonWu73/Blog/issues/149)
+- [MySQL 分组后在分组内排序，每个分组中取前 N 条](https://github.com/JasonWu73/Blog/issues/150)
+- [纯 SQL 写简单业务逻辑](https://github.com/JasonWu73/Blog/issues/151)
+- [MySQL 自连接查询](https://github.com/JasonWu73/Blog/issues/152)
+- [MySQL 删除重复数据](https://github.com/JasonWu73/Blog/issues/153)
+- [MySQL 更新或拒绝插入重复数据](https://github.com/JasonWu73/Blog/issues/154)
+- [更新数据技巧之 update 表子查询、多条件判断](https://github.com/JasonWu73/Blog/issues/155)
+- [利用 ORDER BY 实现“排名作弊”](https://github.com/JasonWu73/Blog/issues/156)
+- [获取连续签到 N 天的用户列表](https://github.com/JasonWu73/Blog/issues/157)
+- [获取各类商品的最新销售情况](https://github.com/JasonWu73/Blog/issues/158)
+- [多表关联 UPDATE](https://github.com/JasonWu73/Blog/issues/159)
+
+# Redis
+
+- [Redis 中实现集合中元素过期时间的思路](https://github.com/JasonWu73/Blog/issues/129)
 
 # Microsoft Windows
 
