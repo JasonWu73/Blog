@@ -7,6 +7,22 @@
 - [Python 中的接口实现](https://github.com/JasonWu73/Blog/issues/29)
 - [Python 同时遍历列表项的索引和值](https://github.com/JasonWu73/Blog/issues/39)
 
+## 设计模式
+
+- [空对象模式（Null object pattern）](https://github.com/JasonWu73/Blog/issues/30)
+- [生成器模式（Builder pattern）](https://github.com/JasonWu73/Blog/issues/31)
+- [单例模式（Singleton pattern）](https://github.com/JasonWu73/Blog/issues/32)
+- [外观模式（Facade pattern）](https://github.com/JasonWu73/Blog/issues/33)
+- [命令模式（Command pattern）](https://github.com/JasonWu73/Blog/issues/34)
+
+## 面向对象设计（SOLID）
+
+- [单一功能原则（Single responsibility principle）](https://github.com/JasonWu73/Blog/issues/35)
+- [开闭原则（Open–closed principle）](https://github.com/JasonWu73/Blog/issues/36)
+- [里氏替换原则（Liskov substitution principle）](https://github.com/JasonWu73/Blog/issues/37)
+- [接口隔离原则（Interface-segregation principle，ISP）](https://github.com/JasonWu73/Blog/issues/38)
+- [依赖反转原则（Dependency inversion principle，DIP）](https://github.com/JasonWu73/Blog/issues/28)
+
 # Java
 
 - [Java 安装](https://github.com/JasonWu73/Blog/issues/50)
@@ -236,22 +252,6 @@
 # VMware Workstation
 
 - [VMware Workstation 12 Pro 创建虚拟机（完整截图）](https://github.com/JasonWu73/Blog/issues/3)
-
-# 设计模式
-
-- [空对象模式（Null object pattern）](https://github.com/JasonWu73/Blog/issues/30)
-- [生成器模式（Builder pattern）](https://github.com/JasonWu73/Blog/issues/31)
-- [单例模式（Singleton pattern）](https://github.com/JasonWu73/Blog/issues/32)
-- [外观模式（Facade pattern）](https://github.com/JasonWu73/Blog/issues/33)
-- [命令模式（Command pattern）](https://github.com/JasonWu73/Blog/issues/34)
-
-## 面向对象设计（SOLID）
-
-- [单一功能原则（Single responsibility principle）](https://github.com/JasonWu73/Blog/issues/35)
-- [开闭原则（Open–closed principle）](https://github.com/JasonWu73/Blog/issues/36)
-- [里氏替换原则（Liskov substitution principle）](https://github.com/JasonWu73/Blog/issues/37)
-- [接口隔离原则（Interface-segregation principle，ISP）](https://github.com/JasonWu73/Blog/issues/38)
-- [依赖反转原则（Dependency inversion principle，DIP）](https://github.com/JasonWu73/Blog/issues/28)
 
 # 理论
 
