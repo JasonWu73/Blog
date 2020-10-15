@@ -2,7 +2,8 @@
 
 # Python
 
-- [Python爬虫：抓取百度搜索的前两页结果标题](https://github.com/JasonWu73/Blog/issues/163)
+- [Python爬虫：抓取百度搜索的前两页结果标题（标签）](https://github.com/JasonWu73/Blog/issues/164)
+- [Python爬虫：抓取百度搜索的前两页结果标题（JSON）](https://github.com/JasonWu73/Blog/issues/163)
 - [Python PyPi 镜像源配置](https://github.com/JasonWu73/Blog/issues/56)
 - [Python 中的接口实现](https://github.com/JasonWu73/Blog/issues/29)
 - [Python 同时遍历列表项的索引和值](https://github.com/JasonWu73/Blog/issues/39)
