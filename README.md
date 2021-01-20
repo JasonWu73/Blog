@@ -37,6 +37,7 @@
 - [Java 8 Date/Time API](https://github.com/JasonWu73/Blog/issues/95)
 - [Java 粗糙模拟一个多线程 Web 服务器](https://github.com/JasonWu73/Blog/issues/101)
 - [Java JDBC 基础](https://github.com/JasonWu73/Blog/issues/102)
+- [Java Base64图片字符串校验](https://github.com/JasonWu73/Blog/issues/165)
 
 ## Spring Framework
 
