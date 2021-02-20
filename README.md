@@ -207,6 +207,10 @@
 - [Windows 目录迁移（以 Chrome 为例）](https://github.com/JasonWu73/Blog/issues/72)
 - [Windows 无法从微软商店安装应用，提示 0x80070005](https://github.com/JasonWu73/Blog/issues/73)
 
+## MacOS
+
+- [SSH & SFTP](https://github.com/JasonWu73/Blog/issues/171)
+
 ## Ubuntu
 
 - [Ubuntu 18.04.2 LTS 安装 Node.js](https://github.com/JasonWu73/Blog/issues/74)
