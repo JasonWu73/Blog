@@ -101,6 +101,7 @@
 
 # JavaScript
 
+- [JavaScript常用算法](https://github.com/JasonWu73/Blog/issues/168)
 - [JavaScript async await](https://github.com/JasonWu73/Blog/issues/61)
 - [解惑Promise与异步函数（async & await）的执行顺序](https://github.com/JasonWu73/Blog/issues/147)
 - [JavaScript 多行字符串变量](https://github.com/JasonWu73/Blog/issues/126)
