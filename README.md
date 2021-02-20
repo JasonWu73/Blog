@@ -1,5 +1,9 @@
 > 搜索本页所列标题定位具体文章，或打开 `Issues` 标签，使用 GitHub 提供的搜索功能（`Filters`）查询文章。
 
+# Vim
+
+- [Vim常用操作](https://github.com/JasonWu73/Blog/issues/169)
+
 # Python
 
 - [Python爬虫：抓取百度搜索的前两页结果标题（标签）](https://github.com/JasonWu73/Blog/issues/164)
