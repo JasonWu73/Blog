@@ -209,6 +209,7 @@
 
 ## MacOS
 
+- [开发工具配置](https://github.com/JasonWu73/Blog/issues/173)
 - [SSH & SFTP](https://github.com/JasonWu73/Blog/issues/171)
 - [Homebrew](https://github.com/JasonWu73/Blog/issues/172)
 
