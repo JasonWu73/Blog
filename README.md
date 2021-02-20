@@ -230,6 +230,7 @@
 
 ## JetBrains
 
+- [IntelliJ IDEA MacOS 快捷键](https://github.com/JasonWu73/Blog/issues/170)
 - [Intellij IDEA 配置](https://github.com/JasonWu73/Blog/issues/47)
 - [Intellij IDEA 常用快捷键](https://github.com/JasonWu73/Blog/issues/48)
 - [IntelliJ IDEA HTTP Client](https://github.com/JasonWu73/Blog/issues/80)
