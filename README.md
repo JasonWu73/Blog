@@ -90,6 +90,7 @@
 ### Apache Maven
 
 - [Maven备忘单](https://github.com/JasonWu73/Blog/issues/167)
+- [Maven WAR 内嵌 Tomcat 配置](https://github.com/JasonWu73/Blog/issues/175)
 - [Maven 安装与配置](https://github.com/JasonWu73/Blog/issues/49)
 - [Maven 在 IDE 中无法识别已安装第三方 JAR 其本身依赖的问题](https://github.com/JasonWu73/Blog/issues/106)
 - [Maven 运行 test 命令控制台输出乱码的问题](https://github.com/JasonWu73/Blog/issues/82)
