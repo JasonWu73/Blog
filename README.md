@@ -76,7 +76,7 @@
 
 ### Spring Cloud Gateway
 
-- [Spring Cloud Gateway 最初级的 HTTP 反向代理配置](https://github.com/JasonWu73/Blog/issues/176)
+- [Spring Cloud Gateway + Nacos 实现反向代理配置与服务注册发现](https://github.com/JasonWu73/Blog/issues/176)
 
 ### MyBatis
 
