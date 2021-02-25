@@ -171,13 +171,13 @@
 
 ## Docker
 
+- [Docker常用命令](https://github.com/JasonWu73/Blog/issues/166)
 - [Docker CE 安装（CentOS 7）](https://github.com/JasonWu73/Blog/issues/9)
 - [Docker 以非 root 用户进行管理](https://github.com/JasonWu73/Blog/issues/10)
-- [Docker常用命令](https://github.com/JasonWu73/Blog/issues/166)
 
 ## MySQL
 
-- [MySQL 备忘）](https://github.com/JasonWu73/Blog/issues/174)
+- [MySQL 备忘](https://github.com/JasonWu73/Blog/issues/174)
 - [MySQL 服务安装（Docker 官方镜像）](https://github.com/JasonWu73/Blog/issues/11)
 - [MySQL 客户端命令行工具（Windows 篇）](https://github.com/JasonWu73/Blog/issues/12)
 - [MySQL 如何更改用户身份验证插件](https://github.com/JasonWu73/Blog/issues/26)
