@@ -1,33 +1,5 @@
 > 搜索本页所列标题定位具体文章，或打开 `Issues` 标签，使用 GitHub 提供的搜索功能（`Filters`）查询文章。
 
-## Vim
-
-- [Vim常用操作](https://github.com/JasonWu73/Blog/issues/169)
-
-### Python
-
-- [Python爬虫：抓取百度搜索的前两页结果标题（标签）](https://github.com/JasonWu73/Blog/issues/164)
-- [Python爬虫：抓取百度搜索的前两页结果标题（JSON）](https://github.com/JasonWu73/Blog/issues/163)
-- [Python PyPi 镜像源配置](https://github.com/JasonWu73/Blog/issues/56)
-- [Python 中的接口实现](https://github.com/JasonWu73/Blog/issues/29)
-- [Python 同时遍历列表项的索引和值](https://github.com/JasonWu73/Blog/issues/39)
-
-### 设计模式
-
-- [空对象模式（Null object pattern）](https://github.com/JasonWu73/Blog/issues/30)
-- [生成器模式（Builder pattern）](https://github.com/JasonWu73/Blog/issues/31)
-- [单例模式（Singleton pattern）](https://github.com/JasonWu73/Blog/issues/32)
-- [外观模式（Facade pattern）](https://github.com/JasonWu73/Blog/issues/33)
-- [命令模式（Command pattern）](https://github.com/JasonWu73/Blog/issues/34)
-
-### 面向对象设计（SOLID）
-
-- [单一功能原则（Single responsibility principle）](https://github.com/JasonWu73/Blog/issues/35)
-- [开闭原则（Open–closed principle）](https://github.com/JasonWu73/Blog/issues/36)
-- [里氏替换原则（Liskov substitution principle）](https://github.com/JasonWu73/Blog/issues/37)
-- [接口隔离原则（Interface-segregation principle，ISP）](https://github.com/JasonWu73/Blog/issues/38)
-- [依赖反转原则（Dependency inversion principle，DIP）](https://github.com/JasonWu73/Blog/issues/28)
-
 ## Java
 
 - [Java 安装](https://github.com/JasonWu73/Blog/issues/50)
@@ -43,9 +15,7 @@
 - [Java JDBC 基础](https://github.com/JasonWu73/Blog/issues/102)
 - [Java Base64图片字符串校验](https://github.com/JasonWu73/Blog/issues/165)
 
-### Spring Framework
-
-#### Spring Core
+### Spring Core
 
 - [Spring IoC 容器的简单理解（基于 XML）](https://github.com/JasonWu73/Blog/issues/107)
 - [Spring 基于 Java 代码的 IoC 容器配置](https://github.com/JasonWu73/Blog/issues/108)
@@ -54,7 +24,7 @@
 - [Spring 标准化注解 @Controller](https://github.com/JasonWu73/Blog/issues/111)
 - [Spring & Hibernate Validator 自定义校验注解和分组校验](https://github.com/JasonWu73/Blog/issues/112)
 
-#### Spring MVC
+### Spring MVC
 
 - [Spring MVC 入门项目](https://github.com/JasonWu73/Blog/issues/116)
 - [Spring MVC 获取请求内容（绑定日期对象）、限制请求头](https://github.com/JasonWu73/Blog/issues/117)
@@ -76,6 +46,7 @@
 
 ### Spring Cloud Gateway
 
+- [Spring Cloud Circuit Breaker 熔断机制](https://github.com/JasonWu73/Blog/issues/177)
 - [Spring Cloud Gateway + Nacos 实现反向代理配置与服务注册发现](https://github.com/JasonWu73/Blog/issues/176)
 
 ### MyBatis
@@ -160,10 +131,38 @@
 - [Emmet 速学](https://github.com/JasonWu73/Blog/issues/1)
 - [Sass 速学](https://github.com/JasonWu73/Blog/issues/77)
 
+### Python
+
+- [Python爬虫：抓取百度搜索的前两页结果标题（标签）](https://github.com/JasonWu73/Blog/issues/164)
+- [Python爬虫：抓取百度搜索的前两页结果标题（JSON）](https://github.com/JasonWu73/Blog/issues/163)
+- [Python PyPi 镜像源配置](https://github.com/JasonWu73/Blog/issues/56)
+- [Python 中的接口实现](https://github.com/JasonWu73/Blog/issues/29)
+- [Python 同时遍历列表项的索引和值](https://github.com/JasonWu73/Blog/issues/39)
+
+### 设计模式
+
+- [空对象模式（Null object pattern）](https://github.com/JasonWu73/Blog/issues/30)
+- [生成器模式（Builder pattern）](https://github.com/JasonWu73/Blog/issues/31)
+- [单例模式（Singleton pattern）](https://github.com/JasonWu73/Blog/issues/32)
+- [外观模式（Facade pattern）](https://github.com/JasonWu73/Blog/issues/33)
+- [命令模式（Command pattern）](https://github.com/JasonWu73/Blog/issues/34)
+
+### 面向对象设计（SOLID）
+
+- [单一功能原则（Single responsibility principle）](https://github.com/JasonWu73/Blog/issues/35)
+- [开闭原则（Open–closed principle）](https://github.com/JasonWu73/Blog/issues/36)
+- [里氏替换原则（Liskov substitution principle）](https://github.com/JasonWu73/Blog/issues/37)
+- [接口隔离原则（Interface-segregation principle，ISP）](https://github.com/JasonWu73/Blog/issues/38)
+- [依赖反转原则（Dependency inversion principle，DIP）](https://github.com/JasonWu73/Blog/issues/28)
+
 ## Flutter
 
 - [Flutter 开发环境搭建（Windows 10）](https://github.com/JasonWu73/Blog/issues/83)
 - [Flutter 中 Gradle Maven 仓库配置](https://github.com/JasonWu73/Blog/issues/84)
+
+## Vim
+
+- [Vim常用操作](https://github.com/JasonWu73/Blog/issues/169)
 
 ## Git
 
