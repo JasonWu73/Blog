@@ -1,5 +1,11 @@
 > 搜索本页所列标题定位具体文章，或打开 `Issues` 标签，使用 GitHub 提供的搜索功能（`Filters`）查询文章。
 
+## Elastic Stack
+
+### Elasticsearch
+
+- [Elasticsearch 多节点配置 (仅用于开发环境)](https://github.com/JasonWu73/Blog/issues/178)
+
 ## Java
 
 - [Java 安装](https://github.com/JasonWu73/Blog/issues/50)
