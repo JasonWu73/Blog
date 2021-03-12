@@ -6,6 +6,7 @@
 
 - [Elasticsearch 多节点配置 (仅用于开发环境)](https://github.com/JasonWu73/Blog/issues/178)
 - [Elasticsearch REST API (基础)](https://github.com/JasonWu73/Blog/issues/179)
+- [Elasticsearch REST API (分析器)](https://github.com/JasonWu73/Blog/issues/180)
 
 ## Java
 
