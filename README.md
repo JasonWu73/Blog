@@ -7,7 +7,11 @@
 - [Elasticsearch 多节点配置 (仅用于开发环境)](https://github.com/JasonWu73/Blog/issues/178)
 - [Elasticsearch REST API (映射和索引数据)](https://github.com/JasonWu73/Blog/issues/179)
 - [Elasticsearch REST API (查询)](https://github.com/JasonWu73/Blog/issues/180)
-- [Elasticsearch 批量导入 (Java 代码))](https://github.com/JasonWu73/Blog/issues/181)
+- [Elasticsearch 批量导入 (Java 代码)](https://github.com/JasonWu73/Blog/issues/181)
+
+### Logstash
+
+- [Logstash 从 MySQL 导入 Elasticsearch](https://github.com/JasonWu73/Blog/issues/182)
 
 ## Java
 
