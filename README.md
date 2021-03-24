@@ -20,6 +20,7 @@
 - [Logstash Grok 导入 Elasticsearch 日志文件 (多行)](https://github.com/JasonWu73/Blog/issues/188)
 - [Logstash Grok 导入 Elasticsearch 慢查询日志文件](https://github.com/JasonWu73/Blog/issues/189)
 - [Logstash Grok 导入 MySQL 慢查询日志文件](https://github.com/JasonWu73/Blog/issues/190)
+- [Logstash 输入插件 Http_poller](https://github.com/JasonWu73/Blog/issues/191)
 
 ## Java
 
