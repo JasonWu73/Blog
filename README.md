@@ -8,6 +8,7 @@
 - [Elasticsearch REST API (映射和索引数据)](https://github.com/JasonWu73/Blog/issues/179)
 - [Elasticsearch REST API (查询)](https://github.com/JasonWu73/Blog/issues/180)
 - [Elasticsearch 批量导入 (Java 代码)](https://github.com/JasonWu73/Blog/issues/181)
+- [Elasticsearch REST API (聚合)](https://github.com/JasonWu73/Blog/issues/192)
 
 ### Logstash
 
